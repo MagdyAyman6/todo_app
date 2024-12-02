@@ -4,18 +4,18 @@ import 'features/todo/presentation/cubit/todo_cubit.dart';
 import 'features/todo/presentation/screens/home_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const TodoApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class TodoApp extends StatelessWidget {
+  const TodoApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (context) => TodoCubit()..loadTodos(),
       child: MaterialApp(
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: true,
         title: 'Todo App',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
