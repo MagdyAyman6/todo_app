@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="707247f2-7a2a-4981-a5ae-3fcf9e703ede" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/models/api_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/models/article_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/models/category_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/screens/category_news.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/widgets/article_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_app/lib/widgets/category_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oli_elazm/lib/core/utils/assets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oli_elazm/lib/features/splash/presentation/views/splash_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oli_elazm/lib/features/splash/presentation/views/widgets/splash_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/model/task_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/networking/database.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/widgets/custom_app_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/widgets/custom_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/widgets/custom_table.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app/lib/widgets/home_screen_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/core/database/database_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/cubit/todo_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/cubit/todo_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/data/models/todo_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/data/repositories/todo_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/cubit/todo_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/cubit/todo_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/screens/add_todo_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/widgets/form_field_wrapper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/widgets/todo_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/widgets/todo_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/features/todo/presentation/widgets/todo_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/models/todo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/screens/add_todo_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/services/database_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/utils/date_time_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/widgets/form_field_wrapper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/widgets/todo_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/lib/widgets/todo_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_app_00/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pfV0m8eoE5HBPgp281U0B7nizn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/StudioProjects/todo_app_0",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707247f2-7a2a-4981-a5ae-3fcf9e703ede" name="Changes" comment="" />
+      <created>1733156895222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733156895222</updated>
+    </task>
+    <servers />
+  </component>
+</project>
